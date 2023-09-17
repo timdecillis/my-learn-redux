@@ -9,4 +9,3 @@ const PhotoGrid = () => {
 };
 
 export default PhotoGrid;
-
