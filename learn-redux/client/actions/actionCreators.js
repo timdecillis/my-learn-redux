@@ -20,3 +20,5 @@ export function removeComment(postId, i) {
     i
   }
 }
+
+// adding comments
